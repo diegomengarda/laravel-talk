@@ -11,6 +11,7 @@
 
 ### Extra
 
+- Authentication/Authorization
 - Cache
 - Eloquent ORM
 - Jobs
