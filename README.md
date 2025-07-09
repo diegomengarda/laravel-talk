@@ -29,6 +29,7 @@
 
 ## External Libs/Tools
 
+- https://inertiajs.com/
 - https://laravel-auditing.com/
 - https://github.com/barryvdh/laravel-snappy
 - https://tenancyforlaravel.com/
