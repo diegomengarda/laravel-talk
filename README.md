@@ -1,14 +1,22 @@
 ## Laravel Talk
 
 - Folder/Project Structure
-- Routing
-- Middlewares
-- Request Validation
-- Repositories
-- Services
+- Routing/Middlewares
+- Requests Validation
+- Models/Relations
+- Repositories *
+- Service Layer *
 - Views/Responses
-- Error Handling
+- Debug/Error Handling
 
+### Extra
+
+- Cache
+- Eloquent ORM
+- Jobs
+- Commands
+- File Storage
+- Deployment
 
 ## Official Packages/Services
 
